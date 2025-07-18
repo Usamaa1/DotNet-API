@@ -87,3 +87,27 @@ namespace WebAPI.Controllers
         public string? ProdImage { get; set; }
     }
 }
+
+
+
+
+// [HttpPost("upload")]
+// public async Task<IActionResult> UploadFile(IFormFile formFile)
+// {
+//     if (formFile != null && formFile.Length > 0)
+//     {
+//         var uploadsPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/uploads");
+//         var fileName = Path.GetRandomFileName();
+//         var filePath = Path.Combine(uploadsPath, fileName);
+
+//         using (var stream = System.IO.File.Create(filePath))
+//         {
+//             await formFile.CopyToAsync(stream);
+//         }
+
+//         return Ok("File uploaded!");
+//     }
+
+//     return BadRequest("Invalid file.");
+// }
+
