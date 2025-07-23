@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "tqdcUUbO5qFf0k5u528Jgllqrhh9iEt1gRL0onNx/w0=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/484302b7-4ceb-4e05-b1af-6b09af01f95e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nmjflu5v6t",
+      "Integrity": "H46DlFbMh1Jva96TCwLPn6SzYVuvNCBswCEylQylIek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H46DlFbMh1Jva96TCwLPn6SzYVuvNCBswCEylQylIek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 11:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H46DlFbMh1Jva96TCwLPn6SzYVuvNCBswCEylQylIek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/484302b7-4ceb-4e05-b1af-6b09af01f95e.nmjflu5v6t.jpg",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "384324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H46DlFbMh1Jva96TCwLPn6SzYVuvNCBswCEylQylIek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 11:42:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nmjflu5v6t"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H46DlFbMh1Jva96TCwLPn6SzYVuvNCBswCEylQylIek="
+        }
+      ]
+    }
+  ]
+}
