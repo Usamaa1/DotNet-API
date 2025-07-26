@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg",
-      "PackagePath": "staticwebassets\\uploads\\484302b7-4ceb-4e05-b1af-6b09af01f95e.jpg"
+      "Id": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\6829aea9-c005-436d-a02d-b476da462351.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6829aea9-c005-436d-a02d-b476da462351.jpg"
+    },
+    {
+      "Id": "C:\\Users\\usama\\Desktop\\dotnet mvc\\WebAPI\\WebAPI\\wwwroot\\uploads\\e4a82fb5-b5a5-49bf-8af2-feb1aa404720.png",
+      "PackagePath": "staticwebassets\\uploads\\e4a82fb5-b5a5-49bf-8af2-feb1aa404720.png"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -165,3 +165,4 @@ C:\Users\usama\Desktop\dotnet mvc\WebAPI\WebAPI\obj\Debug\net9.0\WebAPI.pdb
 C:\Users\usama\Desktop\dotnet mvc\WebAPI\WebAPI\obj\Debug\net9.0\WebAPI.genruntimeconfig.cache
 C:\Users\usama\Desktop\dotnet mvc\WebAPI\WebAPI\obj\Debug\net9.0\ref\WebAPI.dll
 C:\Users\usama\Desktop\dotnet mvc\WebAPI\WebAPI\bin\Debug\net9.0\WebAPI.staticwebassets.runtime.json
+C:\Users\usama\Desktop\dotnet mvc\WebAPI\WebAPI\obj\Debug\net9.0\WebAPI.sourcelink.json
